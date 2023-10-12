@@ -1,0 +1,220 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Style the navigation bar */
+nav {
+    background: #ffffff;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+nav ul {
+    list-style: none;
+    display: inline;
+    padding: 10px;
+}
+
+nav li {
+    margin-right: 20px;
+    display: inline;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+/* Style the header and sections */
+header, section {
+    padding: 40px;
+}
+
+header {
+    background-color: #f2f2f2;
+}
+
+section {
+    background-color: #c9dce1;
+}
+
+h1 {
+    font-size: 36px;
+    color: #333;
+}
+
+h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 16px;
+}
+
+ul {
+    list-style: disc;
+}
+
+.flag{
+    height: 60px;
+    width: 80px;
+}
+.container{
+    position:relative;
+
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+.row{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:20px;
+    margin-bottom: 40px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-inline-start: 4vw;
+    padding-inline-end: 4vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: #333;
+    display: flex;
+
+}
+.left-card{
+    width: 33%;
+    background: #ddeaf8;
+    padding: 50px;
+}
+.space{
+    width:5%;
+
+}
+.right-card{
+    width: 62%;
+    background: #97b9c5;
+    /* height: 100px; */
+    background: #cbf4fe;
+}
+.bannerphoto{
+    width:100%;
+}
+.container{
+    margin-bottom: 177px;
+}
+.about1{
+    width: 60%;
+
+
+
+}
+.about2{
+    width: 30%;
+}
+#about h4{
+    font-size: 17px;
+    padding-bottom: 21px;
+}
+.ok{
+    font-size: 47px;
+    line-height: 43px; 
+}
+#about p{    
+    padding-top: 20px;
+    padding-bottom: 21px;
+    color: #000;
+
+}
+.butn{
+    border: 1px #5757db solid;
+    padding: 8px;
+    color: #ffff;
+    background-color: #5757db;
+    border-radius: 8px;
+}
+.butn:hover{
+    background-color: #000;
+    border: 1px #000 solid;
+    color: #fff;
+    transition: 0.3s ease all;
+    cursor: pointer;
+}
+.class1 {
+    font-size: 17px;
+    font-weight: 700;
+    padding-bottom: 15px;
+    padding-top: 28px;
+}
+
+.class2 {
+font-size: 47px;
+font-weight: 1000;
+    }
+    #button butn{
+        border: 1px #5757db solid;
+        padding: 8px;
+        color: #ffff;
+        background-color: #5757db;
+        border-radius: 8px;
+    }
+    .butn:hover{
+        background-color: #000;
+        border: 1px #000 solid;
+        color: #fff;
+        transition: 0.3s ease all;
+        cursor: pointer;
+    }
+
+.class3 {
+    padding-top: 18px;
+    padding-bottom: 20px;
+    }
+.topbar{
+    background-color: #ddeaf8;
+    width:20%;
+
+}
+
+    .button1{
+        border: 1px #5757db solid;
+        padding: 8px;
+        color: #ffff;
+        background-color: #5757db;
+        border-radius: 8px;
+    }
+    .butn:hover{
+        background-color: #000;
+        border: 1px #000 solid;
+        color: #fff;
+        transition: 0.3s ease all;
+        cursor: pointer;
+
+
+
+    .button2{
+        border: 1px #5757db solid;
+        padding: 8px;
+        color: #ffff;
+        background-color: #5757db;
+        border-radius: 8px;
+    }
+    .butn:hover{
+        background-color: #000;
+        border: 1px #000 solid;
+        color: #fff;
+        transition: 0.3s ease all;
+        cursor: pointer;
+
+
+    }
+
+
+
